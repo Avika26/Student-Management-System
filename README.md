@@ -29,19 +29,19 @@ It includes **database creation, table relationships, sample data, queries, view
 
 ## 🖼️ Screenshots
 
-### 🏫 Tables
+### Tables
 ![Tables](Tables.png.png)
 
-### 🔗 Join Queries
+### Join Queries
 ![Joins](joins.png.png)
 
-### 📄 Sample Query Output
+### Sample Query Output
 ![Select All](selectall.png.png)
 
-### 👁️ Views
+### Views
 ![Views](views.png.png)
 
-### ⚙️ Procedures
+### Procedures
 ![Procedures](procedures.png.png)
 
 ---
